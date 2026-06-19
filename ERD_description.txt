@@ -1,0 +1,13 @@
+Departments
+    |
+    |----< Students
+
+Instructors
+    |
+    |----< Courses
+
+Students
+    |
+    |----< Enrollments >----|
+                             |
+                         Courses
